@@ -1,4 +1,4 @@
-# Using a Person Sensor on an Arduino
+# Using a Person Sensor on an Arduino compatible processor from Particle.io 
 
 Example code that shows how to interface an Arduino to [Useful 
 Sensor's](https://usefulsensors.com) 
